@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Abhishek</h1>
+<h1 align="center">Hi , I'm Abhishek</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- I’m currently exploring **MERN Stack**
 
-- 💬 Ask me about **C++,DSA,Java,Javascript,HTML,CSS,React,etc**
+- Ask me about **C++,DSA,Java,Javascript,HTML,CSS,React,etc**
 
-- 📫 How to reach me **abhishekgraut@gmail.com**
+- How to reach me **abhishekgraut@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
