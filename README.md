@@ -1,6 +1,8 @@
 <h1 align="center">Hi , I'm Abhishek</h1>
 <h3 align="center">A passionate web developer from India</h3>
-[![](https://visitcount.itsvg.in/api?id=abhishekraut1&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=abhishekraut1&label=Profile%20Views&color=0&icon=0&pretty=false" />
+</a>
 
 - I’m currently exploring **MERN Stack**
 
